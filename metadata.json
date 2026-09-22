@@ -1,0 +1,7 @@
+{
+  "name": "Live Weather Wallpaper",
+  "description": "An atmospheric live weather wallpaper app with real-time weather, day/night cycles, and animations.",
+  "requestFramePermissions": ["ACCESS_FINE_LOCATION", "ACCESS_COARSE_LOCATION"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
